@@ -1,4 +1,5 @@
 "Dit is een testfile" 
 "Added some text" 
 "To be or not to be" 
-"1820" 
+"1800" 
+>>>>>>> lincoln
